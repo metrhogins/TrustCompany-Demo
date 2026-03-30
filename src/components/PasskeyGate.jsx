@@ -166,7 +166,7 @@ export default function PasskeyGate({ children }) {
   return (
     <div style={S.overlay}>
       <div style={S.box}>
-        <div style={S.title}>ztakoraLABS</div>
+        <div style={S.title}>ztakora</div>
         <div style={S.sub}>Enter Encrypted Access Key</div>
         <div style={S.divider} />
         <input
